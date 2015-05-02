@@ -1,0 +1,5 @@
+Listing of device:
+Robot B1
+Computer
+Server 1
+Laptop 1
